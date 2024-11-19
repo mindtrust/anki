@@ -46,7 +46,7 @@
         "typescript": "^5.0.4"
     },
     "dependencies": {
-        "@bufbuild/protobuf": "^1.2.1",
+        "@bufbuild/protobuf": "^1.10.0",
         "@floating-ui/dom": "^1.4.3",
         "@fluent/bundle": "^0.18.0",
         "@mdi/svg": "^7.0.96",
