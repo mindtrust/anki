@@ -8,7 +8,7 @@ RUN cargo install --git https://github.com/ankitects/anki.git \
     --root /anki-server  \
     anki-sync-server
 
-FROM alpine:3.19.1
+FROM alpine:3.21.1
 
 RUN adduser -D -h /home/anki anki
 
