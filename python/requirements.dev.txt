@@ -188,7 +188,7 @@ flask==3.0.2 \
     #   -r requirements.bundle.txt
     #   flask-cors
     #   types-flask-cors
-flask-cors==4.0.0 \
+flask-cors==6.0.0 \
     --hash=sha256:bc3492bfd6368d27cfe79c7821df5a8a319e1a6d5eab277a3794be19bdc51783 \
     --hash=sha256:f268522fcb2f73e2ecdde1ef45e2fd5c71cc48fe03cffb4b441c6d1b40684eb0
     # via -r requirements.bundle.txt
@@ -512,7 +512,7 @@ pytest==8.0.2 \
     --hash=sha256:d4051d623a2e0b7e51960ba963193b09ce6daeb9759a451844a21e4ddedfc1bd \
     --hash=sha256:edfaaef32ce5172d5466b5127b42e0d6d35ebbe4453f0e3505d96afd93f6b096
     # via -r requirements.dev.in
-requests==2.31.0 \
+requests==2.32.4 \
     --hash=sha256:58cd2187c01e70e6e26505bca751777aa9f2ee0b7f4300988b709f44e013003f \
     --hash=sha256:942c5a758f98d790eaed1a29cb6eefc7ffb0d1cf7af05c3d2791656dbd6ad1e1
     # via
